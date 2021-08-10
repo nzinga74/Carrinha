@@ -1,0 +1,12 @@
+.frete-text {
+  text-align: center;
+  background-color: #c5fda5;
+  width: auto;
+  padding: 13px;
+  border-radius: 16px;
+}
+.frete-container {
+  padding: 40px;
+  padding-top: 0px;
+  font-weight: bold;
+}

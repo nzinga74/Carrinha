@@ -1,0 +1,37 @@
+.carrinho-item {
+  display: flex;
+  margin-top: 8px;
+}
+
+.carrinho-item img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #d1d8e5;
+  border-radius: 8px;
+}
+.carrinho-item h3,
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.carrinho-item .carrinho-description {
+  padding-left: 14px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.last-value {
+  color: #d1d8e5;
+  margin-top: 7px;
+  margin-bottom: 6px;
+}
+.current-value {
+  font-weight: bold;
+}
+.carrinho {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
