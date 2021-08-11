@@ -39,9 +39,14 @@ body {
   border-radius: 8px;
   margin-top: 4px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .finaliza-compra {
   border-top: 1px solid #d1d8e5;
   padding: 20px;
+}
+.finalizar-carrinho:hover {
+  background-color: #274da1;
+  transition: 0.5s ease-in;
 }
